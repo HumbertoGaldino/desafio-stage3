@@ -63,6 +63,10 @@ form fieldset{
     gap: 24px;
 }
 
+form fieldset .input-wrapper:last-of-type{
+    margin-bottom: 30px;
+}
+
 form fieldset legend{
     width: 100%;
     padding-bottom: 16px;
